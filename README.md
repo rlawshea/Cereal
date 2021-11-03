@@ -7,12 +7,15 @@ Needed to clean up the data a little bit before starting the exploratory analysi
 * Changed single letter variable names to full manufacturer name
 
 # EDA
-*looked at the distributions of the data
-*lokked at the summary and descriptive statistics of the data
-*used correlation to find the top correlations 
+Explored shape of the data, statistics, relationships, and trends.
+* looked at the distributions of the data
+* lokked at the summary and descriptive statistics of the data
+* used correlation to find the top correlations 
 
 # Data Visualization
-*barplots
-*scatterplots 
-*pie charts
-*pairplots
+Visualized my findings using:
+* boxplots
+* barplots
+* scatterplots 
+* pie charts
+* pairplots
